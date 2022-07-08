@@ -2,7 +2,9 @@
 
 A new Flutter project.
 
-Hecho por Roberth Pincha.
+Hecho por :
+-Roberth Pincha
+-José Luis Colcha.
 
 ![image](https://user-images.githubusercontent.com/58041699/178081763-08def0df-5d95-48d7-9104-1f98f32f1193.png)
 
